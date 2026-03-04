@@ -5,13 +5,10 @@ on:
       - main
 
 env:
-  VERSION: 1.0.1
+  VERSION: 1.0.2
   MINECRAFT_VERSION: 1.21.11
   NOTES: |
-    - Better file structure
-    - Fixed logo again
-    - Added blahaj
-    - fixed vin_doe:marshmallow
+    - New Logo Art
 
 jobs:
   zip-and-publish:
